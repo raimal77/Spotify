@@ -1,0 +1,5 @@
+{
+  "name": "Spotify Clone",
+  "description": "A visually appealing clone of the Spotify web player interface, built with React, TypeScript, and Tailwind CSS. It features a responsive layout, simulated music player controls, and an AI-powered playlist idea generator using the Gemini API.",
+  "requestFramePermissions": []
+}
